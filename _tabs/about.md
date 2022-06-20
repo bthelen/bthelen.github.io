@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I'm currently a Customer Engineer at [Google Cloud](https://cloud.google.com/).  To know more about me, check out my social links in the left hand nav bar.
